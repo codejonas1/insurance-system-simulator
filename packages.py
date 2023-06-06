@@ -1,0 +1,1 @@
+priceOfpackages = [40, 70, 100]
