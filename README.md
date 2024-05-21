@@ -1,2 +1,2 @@
-# NiDUC
-Prosty model systemu ubezpieczeniowego
+# Insurance System Simulator
+Basic insurance system simulator maked for study subject.
